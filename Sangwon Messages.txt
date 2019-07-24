@@ -7,3 +7,22 @@
 ## Test 입니다 ##
 ## Test 입니다 ##
 ## Test 입니다 ##
+
+
+## git initialization
+해당 폴더
+git init
+git remote add origin www.~
+
+## Git pull
+git pull origin master
+
+
+## Git push
+git status
+
+git add .
+
+git commit -m "message"
+
+git push origin master
